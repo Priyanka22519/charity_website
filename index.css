@@ -84,13 +84,36 @@ padding: 0 0px;
 {
 color: cornsilk;
 }
-.main 
+.main .card-deck
 {
-background-image: linear-gradient(rgb(44, 190, 201),rgb(170, 63, 143));
-height: 400px;
-margin-bottom: 30px;
+background-image: linear-gradient(rgb(44, 190, 201),rgb(189, 66, 170));
+padding: 25px;
 }
-.card-group
+.main .card
 {
-padding-top: 45px;
+height: 300px;
+width: 120px;
+border-radius: 15px;
+}
+.main .card:hover
+{
+color: rgb(230, 114, 253);
+}
+.main .card img
+{
+margin: 0 auto;
+border: 4px solid blue;
+}
+.main h5
+{
+text-align: center;
+color: rgb(124, 47, 139);
+}
+.main .card button
+{
+margin-left: 70px;
+}
+.main .card p
+{
+text-align: center;
 }
