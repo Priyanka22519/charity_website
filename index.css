@@ -1,0 +1,96 @@
+.secondnav 
+{
+background-color: cadetblue;
+color: cornsilk;
+}
+.secondnav ul li a
+{
+color: cornsilk;
+}
+.secondnav button
+{
+background-color: cadetblue;
+}
+.secondnav ul li a
+{
+color: rgb(22, 78, 80);
+}
+.navbar a
+{
+color: cornsilk;
+margin-left: 25px;
+}
+.navbar a:hover
+{
+color: rgb(124, 47, 139);
+}
+.s1
+{
+color:rgb(253, 239, 255);
+}
+.s1 i 
+{
+margin-left: 10px;
+font-size: 32px;
+}
+.s2 button
+{
+background-color: cadetblue;
+color: white;
+}
+.s2 i 
+{
+margin-left: 10px;
+font-size: 35px;
+}
+.logo
+{
+position: absolute;
+top: 0%;
+left: 0%; 
+height: 110px;
+width: 110px;
+}
+/* .header
+{
+color: cadetblue;
+} */
+.header
+{
+color: cadetblue;
+}
+.hr1
+{
+background: linear-gradient(to right,rgb(63, 170, 170),rgb(63, 170, 170));
+height: 5px;
+margin-left: 37%;
+margin-bottom: 10px;
+width: 25%;
+}
+.socials
+{
+text-align: center;
+padding-bottom: 10px;
+margin-top: 5px;
+margin-left: 100px;
+}
+.socials i
+{
+font-size: 20px;
+color: cornsilk;
+padding: 0 0px;
+}
+.Explore a
+{
+color: cornsilk;
+}
+.main 
+{
+background-image: linear-gradient(rgb(44, 190, 201),rgb(170, 63, 143));
+height: 400px;
+margin-bottom: 30px;
+}
+.card-group
+{
+padding-top: 45px;
+}
